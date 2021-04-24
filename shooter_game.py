@@ -3,8 +3,6 @@ import time
 import random
 
 pygame.init()
-pygame.mixer.music.load('100.mp3')
-pygame.mixer.music.play()
  
 white = (255, 255, 255)
 yellow = (255, 255, 102)
